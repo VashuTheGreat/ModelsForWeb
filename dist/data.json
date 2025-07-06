@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Movie Recommender System",
+    "description": "Advanced collaborative filtering system using matrix factorization and deep learning",
+    "tags": ["Neural Networks", "Collaborative Filtering", "Python"],
+    "accuracy": "94.5%",
+    "icon": "Heart",
+    "gradient": "from-purple-500 to-pink-500",
+    "view": "https://vidiocallapp.onrender.com/",
+    "code": "https://vidiocallapp.onrender.com/",
+    "status": "Live"
+  },
+  {
+    "name": "Stock Predictor",
+    "description": "Predicting stock prices using LSTM and time series data",
+    "tags": ["LSTM", "TensorFlow", "Stocks"],
+    "accuracy": "90.1%",
+    "icon": "TrendingUp",
+    "gradient": "from-blue-500 to-cyan-500",
+    "view": "https://vidiocallapp.onrender.com/",
+    "code": "https://vidiocallapp.onrender.com/",
+    "status": "Beta"
+  },
+  {
+    "name": "Stock Predictor",
+    "description": "Predicting stock prices using LSTM and time series data",
+    "tags": ["LSTM", "TensorFlow", "Stocks"],
+    "accuracy": "90.1%",
+    "icon": "TrendingUp",
+    "gradient": "from-blue-500 to-cyan-500",
+    "view": "https://vidiocallapp.onrender.com/",
+    "code": "https://vidiocallapp.onrender.com/",
+    "status": "Beta"
+  }
+]
